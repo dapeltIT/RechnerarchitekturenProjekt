@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.rechnerarchitekturenprojekt/com.example.rechnerarchitekturenprojekt.HelloApplication
+                                com.example.rechnerarchitekturenprojekt/com.example.rechnerarchitekturenprojekt.Frontend
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
